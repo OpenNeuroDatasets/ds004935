@@ -1,0 +1,24 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique BIDS identifier for the participant in this study."
+  },
+  "none": {
+    "Description": "Not taking any medication."
+  },
+  "SSRI_or_SNRI": {
+    "Description": "On Selective Serotonin Reuptake Inhibitor (SSRI) or Serotonin Norepinephrine Reuptake Inhibitor (SNRI) medication."
+  },
+  "stimulant": {
+    "Description": "On stimulant medication."
+  },
+  "SGA": {
+    "Description": "On second-generation antipsychotic (SGA) medication."
+  },
+  "AED": {
+    "Description": "On anti-epileptic drugs (AED)."
+  },
+  "other": {
+    "Description": "Taking some other unspecified medication/s."
+  }
+}

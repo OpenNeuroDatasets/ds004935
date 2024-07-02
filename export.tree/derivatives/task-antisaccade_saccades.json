@@ -1,0 +1,50 @@
+{
+  "onset":{ 
+    "Description":"Onset time of the event.",
+    "Units":"seconds"
+    },
+  "duration":{ 
+    "Description":"Duration of the event.",
+    "Units":"seconds"
+  },
+  "eye":{
+    "Description":"Specification for which eye was tracked.",
+    "Levels":{
+      "R": "Right eye",
+      "L": "Left eye"
+    }
+  },
+  "startTime":{ 
+    "Description":"Eye-tracking timestamp corresponding to the onset (start) of the event.",
+    "Units":"milliseconds"
+  },
+  "stopTime":{
+    "Description":"Eye-tracking timestamp corresponding to the offset (stop) of the event.",
+    "Units":"milliseconds"
+  },
+  "xStart":{
+    "Description":"Horizontal gaze position at the start of the saccade.",
+    "Units":"pixels"
+  },	
+  "yStart":{
+    "Description":"Vertical gaze position at the start of the saccade.",
+    "Units":"pixels"
+  },	
+  "xEnd":{
+    "Description":"Horizontal gaze position at the end of the saccade.",
+    "Units":"pixels"
+  },	
+  "yEnd":{
+    "Description":"Vertical gaze position at the end of the saccade.",
+    "Units":"pixels"
+  },	
+  "ampDeg":{
+    "Description":"Saccade amplitude.",
+    "Units":"degrees of visual angle"
+  },
+  "vPeak":{
+    "Description":"Saccade peak eye velocity.",
+    "Units":"degrees per second"
+  }
+}
+

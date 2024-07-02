@@ -1,0 +1,86 @@
+{
+  "Manufacturer": "SR-Research",
+  "ManufacturersModelName": "EYELINK II CL v5.12 May 12 2017",
+  "DeviceSerialNumber": "CLG-BEB22",
+  "EnvironmentCoordinates": "top-left",
+  "SamplingFrequency": 1000,
+  "SampleCoordinateUnit": "pixel",
+  "SampleCoordinateSystem": "gaze-on-screen",
+  "CalibrationType": "HV13",
+  "EyeTrackingMethod": "P-CR",
+  "EyeTrackerDistance": 0.57,
+  "ScreenRefreshRate": 59.941,
+  "ScreenResolution": [
+    1920,
+    1080
+  ],
+  "ScreenSize": [
+    0.475,
+    0.27
+  ],
+  "IncludedEyeMovementEvents": [
+    [
+      "Start of fixation",
+      "SFIX"
+    ],
+    [
+      "End of fixation",
+      "EFIX"
+    ],
+    [
+      "Start of saccade",
+      "SSACC"
+    ],
+    [
+      "End of saccade",
+      "ESACC"
+    ],
+    [
+      "Start of blink",
+      "SBLINK"
+    ],
+    [
+      "End of blink",
+      "EBLINK"
+    ]
+  ],
+  "AverageCalibrationError": [
+    1.73,
+    1.87
+  ],
+  "MaximalCalibrationError": [
+    4.06,
+    4.5
+  ],
+  "PupilFitMethod": "ellipse",
+  "RecordedEye": "both",
+  "ScreenAOIDefinition": [
+    "rectangle",
+    [
+      90,
+      570,
+      405,
+      675
+    ],
+    [
+      405,
+      885,
+      405,
+      675
+    ],
+    [
+      1035,
+      1515,
+      405,
+      675
+    ],
+    [
+      1350,
+      1830,
+      405,
+      675
+    ]
+  ],
+  "StartTime": 843843,
+  "StopTime": 1619186
+}

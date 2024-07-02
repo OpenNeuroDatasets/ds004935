@@ -1,0 +1,10 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique BIDS identifier for the participant in this study."
+  },
+  "WASI_score": {
+    "LongName": "WASI_FULL_2_IQ",
+    "Description": "Score from abbreviated 2 scale IQ test from the Wechsler Abbreviated Scale of Intelligence (WASI). Citation: Wechsler, D. (2011). Wechsler Abbreviated Scale of Intelligence--Second Edition (WASI-II)"
+  }
+}
